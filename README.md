@@ -1,6 +1,6 @@
 ## Sunshine Host Display Switcher for Moonlight Streaming
 
-This script changes your host display as soon as the client starts streaming, such as when you only want to have your primary display turned on while streaming.
+This script changes your host display mode as soon as the client starts streaming, allowing you to have only your primary display turned on while streaming. The display mode is also configurable using the `config.txt` file.
 
 ### Requirements
 
@@ -45,6 +45,13 @@ You may have a mobile device that you wish to stream at a lower resolution to sa
 do=internal
 undo=extend
 ```
+
+| Mode     | Description            |
+| -------- | ---------------------- |
+| internal | Primary Monitor Only   |
+| external | Secondary Monitor Only |
+| extend   | Extend to all Monitors |
+| clone    | Clone Primary Monitor  |
 
 ### Credits
 
