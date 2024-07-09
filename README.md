@@ -2,6 +2,9 @@
 
 This script changes your host display mode as soon as the client starts streaming, allowing you to have only your primary display turned on while streaming. The display mode is also configurable using the `config.txt` file.
 
+> [!NOTE]
+> This is for users who doesn't want to buy another dummy plug or if you don't have enough slots for it. Otherwise, use [MonitorySwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) by Nonary
+
 ### Requirements
 
 - Host must be Windows.
