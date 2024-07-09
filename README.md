@@ -5,6 +5,8 @@ This script changes your host display mode as soon as the client starts streamin
 > [!NOTE]
 > This is for users who doesn't want to buy another dummy plug or if you don't have enough slots for it. Otherwise, use [MonitorySwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) by Nonary
 
+![image](https://github.com/rairulyle/Sunshine-AutoDisplaySwitch/assets/12708526/03d3660b-7720-4899-9d0a-340ed5a07afe)
+
 ### Requirements
 
 - Host must be Windows.
