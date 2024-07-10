@@ -3,7 +3,7 @@
 This script changes your host display mode as soon as the client starts streaming, allowing you to have only your primary display turned on while streaming. The display mode is also configurable using the `config.txt` file.
 
 > [!NOTE]
-> This is for users who doesn't want to buy another dummy plug or if you don't have enough slots for it. Otherwise, use [MonitorySwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) by Nonary
+> This is for users who doesn't want to buy another dummy plug or if you don't have enough slots for it. Otherwise, use [MonitorySwapAutomation](https://github.com/Nonary/MonitorSwapAutomation) by Nonary. This also works with virtual display.
 
 ![image](https://github.com/rairulyle/Sunshine-AutoDisplaySwitch/assets/12708526/03d3660b-7720-4899-9d0a-340ed5a07afe)
 
